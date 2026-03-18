@@ -1,0 +1,42 @@
+{
+    "correct_samples": [
+        {
+            "post_id": 6,
+            "input_text": "Updating LinkedIn is like tuning an instrument: Small tweaks in your headline can change the whole harmony of your profile.",
+            "prediction": "Here is a LinkedIn post on the topic of Job Search:\n\nJob searching on LinkedIn is like trying to find a needle in a haystack: You put in the effort, but the results are often elusive.",
+            "similarity": 0.399
+        },
+        {
+            "post_id": 13,
+            "input_text": "Facing rejection emails is like dodging raindrops in a storm: You can’t avoid them all, but you can keep moving forward.",
+            "prediction": "Job Searching on LinkedIn is like trying to find a needle in a haystack: You're searching for the perfect fit, but often end up with a handful of irrelevant matches.",
+            "similarity": 0.365
+        },
+        {
+            "post_id": 1,
+            "input_text": "Navigating interviews is like steering a sailboat: You adjust your sails for every question, but sometimes the wind simply won’t cooperate.",
+            "prediction": "Here is a LinkedIn post on the topic of Job Search:\n\nJob searching on LinkedIn is like being on a never-ending elevator pitch: You're constantly trying to stand out, but sometimes it feels like you're just stuck in a loop.",
+            "similarity": 0.355
+        }
+    ],
+    "incorrect_samples": [
+        {
+            "post_id": 19,
+            "input_text": "Celebrating small wins is like catching fireflies: You might miss some in the dark, so pause to appreciate the ones you catch.",
+            "prediction": "Here's a LinkedIn post on the topic of Job Search:\n\nStuck in a job search rut? Remember, a job is not just a paycheck, it's a purpose.",
+            "similarity": 0.2
+        },
+        {
+            "post_id": 20,
+            "input_text": "Your career journey is like writing a novel: Each chapter brings new characters and challenges—keep turning the page.",
+            "prediction": "Here is a LinkedIn post on the topic of job search:\n\nThe art of job searching: Where you've got to kiss a lot of frogs to find your prince.",
+            "similarity": 0.195
+        },
+        {
+            "post_id": 14,
+            "input_text": "Crafting your elevator pitch is like writing a haiku: You must capture your essence in just a few powerful words.",
+            "prediction": "The thrill of the job search: Where a sea of resumes are tossed into the void, and the only responses are from recruiters asking for more information.",
+            "similarity": 0.144
+        }
+    ]
+}
